@@ -1,6 +1,19 @@
-# 💫 About Me:
-## 👋 Hi, I’m Sai Kaushik Surampudi<br><br>**AI Engineer | Generative AI | LLMs | RAG | Cloud AI**<br><br>📍 Dallas, TX  <br>🎓 M.S. Artificial Intelligence (ML) – University of North Texas  <br>🎓 M.S. Artificial Intelligence (Data Analytics) – Indiana Wesleyan University  <br><br>---<br><br> 🚀 What I Do<br><br>I design and build **production-grade AI systems** with a strong focus on **Generative AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)**.<br><br>My work spans the **full AI lifecycle** — from data ingestion and model development to deployment, monitoring, and optimization in cloud environments.<br><br>---<br><br> 📌 Key Impact<br><br>- 📈 Improved model accuracy by **15%**<br>- ⚡ Reduced inference and processing latency by **40%**<br>- 🏗️ Deployed **scalable, production-ready AI pipelines**<br>- 🤖 Built end-to-end **GenAI & RAG applications** for real-world use cases<br><br>---<br><br> 🧠 Current Focus<br><br>- Generative AI & LLM applications  <br>- Retrieval-Augmented Generation (RAG) pipelines  <br>- Agentic AI workflows  <br>- Cloud-native AI systems (AWS & GCP)  <br>- Model monitoring, governance, and production readiness  <br><br>---<br><br>## 🛠️ Tech Stack<br><br> Programming<br>- Python, SQL, Java, C++, Go  <br><br> AI & Machine Learning<br>- PyTorch, TensorFlow, Scikit-learn  <br>- Hugging Face, LangChain  <br>- LLM fine-tuning & inference optimization  <br><br>### Data & Cloud<br>- AWS, GCP  <br>- Vector Databases (FAISS, Pinecone, Chroma)  <br>- Docker, CI/CD, REST APIs  <br><br>---<br><br>## 🔍 Open To Roles<br><br>**AI Engineer | GenAI Engineer | Machine Learning Engineer | Data Scientist**<br><br>📫 **Email:** surampudisaikaushik@gmail.com  <br>🔗 **LinkedIn:** *(add link here)*  <br>
+## Hi, I’m Sai 👋
 
+**AI Engineer | Generative AI | LLMs | RAG | Cloud AI**
+
+📍 Dallas, TX  
+🎓 M.S. Artificial Intelligence (ML & Data Analytics)
+
+I build **production-grade AI systems** focused on  
+**LLMs, RAG pipelines, and cloud-native GenAI applications**.
+
+**Currently working on**
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI workflows
+- Scalable AI systems on AWS & GCP
+
+📫 surampudisaikaushik@gmail.com
 
  🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saikaushik0071) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sai Kaushik Surampudi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saikaushiksurampudi@gmail.com) 
