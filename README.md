@@ -1,4 +1,4 @@
-## Hi, I’m Sai 👋
+## Hi, I’m Sai Kaushik Surampudi 👋
 
 **AI Engineer | Generative AI | LLMs | RAG | Cloud AI**
 
